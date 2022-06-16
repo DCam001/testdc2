@@ -7,7 +7,7 @@ Here is some text.
 
 ```blocks
 basic.forever(function(){
-basic.showString(":)")
+basic.showString("hello")
 })
 ```
 ## Step 2
