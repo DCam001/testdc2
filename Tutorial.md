@@ -6,7 +6,9 @@
 Here is some text.
 
 ```blocks
+basic.forever(function(){
 basic.showString(":)")
+})
 ```
 ## Step 2
 
